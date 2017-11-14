@@ -1,16 +1,23 @@
 <STYLE type ="text/css">
 BODY {
 	font-family: Verdana, Helvetica, sans-serif;
-	background-color: white;
+  color: red;
 	}
 H2 {
 	font-family: Verdana, Helvetica, sans-serif;
-	background-color: lightblue;
+  text-align: center;
+  font-size: 2.5em;
+  font-color: white;
 	}
 LI {
-	background-color: lightpink;
+  text-align: center;
+  font-size: 20px
 	}
 CODE {
 	background-color: lightgrey;
 	}
-
+.wallpaper {
+  background-image: url("https://thumb9.shutterstock.com/display_pic_with_logo/2449829/687438982/stock-vector-beach-cheerful-seamless-pattern-wallpaper-of-tropical-dark-green-leaves-of-palm-trees-and-flowers-687438982.jpg");
+  background-attachement: fixed;
+  background-position: cover;
+}
